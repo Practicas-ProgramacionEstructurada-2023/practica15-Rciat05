@@ -1,0 +1,1 @@
+Nombre del paciente: BonifacioFecha de cita: 12/03/2023 0:00:00Razón de Consulta: Costo de Consulta: $300

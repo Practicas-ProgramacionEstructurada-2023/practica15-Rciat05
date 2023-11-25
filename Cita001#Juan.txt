@@ -1,0 +1,1 @@
+Nombre del paciente: JuanFecha de cita: 12/05/2023 12:40:00Razón de Consulta: Costo de Consulta: $12023
